@@ -1,0 +1,16 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Suitsupply Backend API",
+  "main": "index.js",
+  "author": "Islam Magdy <islam@in1t.com>",
+  "dependencies": {
+    "microservice-kit": "^0.4.1",
+    "restify": "^6.3.4"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-unicorn": "^4.0.2"
+  }
+}
